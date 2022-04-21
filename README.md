@@ -1,0 +1,2 @@
+# artificial_intelligence_4_earth_sciences_ocean_monitoring
+Artificial intelligence applications for Ocean monitoring.
